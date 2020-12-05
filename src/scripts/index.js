@@ -1,4 +1,4 @@
-const BODY_NODE = document.querySelector('body');
+const BODY_NODE = document.querySelector('main');
 const AREA_WIDTH = 25;
 const AREA_HEIGHT = 25;
 let LAST_STATE;
@@ -12,7 +12,7 @@ function initState () {
 //  g = 2D game array
 //  h = head position
 //  t = tail position
-//  f = f position
+//  f = food position
 //  d = direction array
   const initialState = {
       g: [],

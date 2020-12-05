@@ -28,6 +28,11 @@
   <link rel="stylesheet" href="./styles/index.css">
 </head>
 <body id="top" itemscope itemtype="http://schema.org/WebPage">
+  A vanilla JS snake game in 1.4k that uses string concatenation for efficient DOM updates. You can check out the code here:
+  <a href="https://github.com/robertpage/string-snake-game/blob/master/src/scripts/index.js">JS file</a>
+  <main>
+
+  </main>
   ${content}
   <script src="./scripts/index.js"></script>
 </body>

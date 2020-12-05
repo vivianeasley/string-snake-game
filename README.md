@@ -1,13 +1,10 @@
-# Static Site Base
+# String Based Snake Game
 
-This is the start for my web projects that tend to be static sites. This uses:
-- 11ty to generate static files
-- esbuild to compile JS/TS, and minify
-- light-server to run dev server
-- SCSS rarely ever used outside of imports
-- PostCSS css post processing
--- CSSnano minification
--- Autoprefixer prefixer
+[DEMO](https://robertpage.github.io/string-snake-game/)
+
+A vanilla JS snake game in 1.4k that uses string concatenation for efficient DOM updates. You can check out the code here:
+[JS file](https://github.com/robertpage/string-snake-game/blob/master/src/scripts/index.js)
+
 
 ## To Run
 npm install
